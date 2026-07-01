@@ -14,7 +14,7 @@ from telegram.ext import (
 
 # ========== إعدادات البوت ==========
 BOT_TOKEN = "8746589488:AAE_LwIpNf5yQ0BboFpID18Y3Ir9Ig_G9uw"
-API_BASE_URL = os.environ.get("API_BASE_URL", "https://sora-host.railway.app")
+API_BASE_URL = os.environ.get("API_BASE_URL", "https://sora-host.up.railway.app")
 
 # إيدي الأدمن على تليجرام
 ADMIN_TELEGRAM_IDS = [7432229551]
